@@ -8,9 +8,10 @@ def mesaj():
 
 time.sleep(10)
 
-for _ in range(10):
+while True:
+
     mesaj()
     time.sleep(1)  
 
-  
+
 
