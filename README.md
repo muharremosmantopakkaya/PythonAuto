@@ -2,7 +2,7 @@
 Bu Python betiği, sıkıcı mesajları otomatikleştirerek sizin yerinize yazıp gönderir!
 
 ## Nasıl Çalışır?
-Başlat: Betiği çalıştırdığınızda, belirtilen bir gecikme süresi sonrasında mesaj() fonksiyonu çağrılır. Bu fonksiyon, "MERHABA BEN MUHARREM" mesajını klavyeden yazıp enter tuşuna basarak gönderir.
+Betiği çalıştırdığınızda, belirtilen bir gecikme süresi sonrasında mesaj() fonksiyonu çağrılır. Bu fonksiyon, "MERHABA BEN MUHARREM" mesajını klavyeden yazıp enter tuşuna basarak gönderir.
 
 
 ## Kullanım
