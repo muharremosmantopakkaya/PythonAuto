@@ -7,7 +7,7 @@ Betiği çalıştırdığınızda, belirtilen bir gecikme süresi sonrasında me
 
 ## Kullanım
 ### Kurulum: 
-Python yüklü değilse, Python'u buradan indirin.
+Python yüklü değilse, Python'u indirin.
 
 ### Gerekli Modüllerin Kurulumu: 
 Betiği çalıştırmadan önce pyautogui modülünü yüklemek için terminalde aşağıdaki komutu çalıştırın:
